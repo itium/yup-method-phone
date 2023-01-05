@@ -6,4 +6,4 @@ Based on [**yup-phone**](https://github.com/abhisekp/yup-phone) by [**Abhisek**]
 
 - Parameter re-arrangement, putting *errorMessage* first
 - Empty phone is valid, so it can be chained to *.required()*
-- Upgrated *rollup* plugins & config
+- Upgraded *rollup* plugins & config
