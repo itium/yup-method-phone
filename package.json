@@ -1,6 +1,6 @@
 {
   "name": "@itium/yup-method-phone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yup method for vailidating phones",
   "repository": "https://github.com/itium/yup-method-phone.git",
   "author": "Rodrigo Palomares <rodrigo.palomares@itium.mx>",
