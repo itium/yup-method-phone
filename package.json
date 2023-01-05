@@ -1,9 +1,10 @@
 {
-  "name": "yup-method-phone",
+  "name": "@itium/yup-method-phone",
   "version": "1.0.0",
   "description": "Yup method for vailidating phones",
   "repository": "https://github.com/itium/yup-method-phone.git",
-  "author": "Rodrigo Palomares",
+  "author": "Rodrigo Palomares <rodrigo.palomares@itium.mx>",
+  "contributors": ["Abhisek Pattnaik <abhisekp@engineer.com>"],
   "license": "MIT",
   "private": false,
   "main": "dist/yup-method-phone.cjs.js",

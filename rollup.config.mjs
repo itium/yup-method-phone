@@ -1,5 +1,3 @@
-// noinspection JSUnusedGlobalSymbols
-
 import pluginTerser from '@rollup/plugin-terser';
 import pluginTypescript from "@rollup/plugin-typescript";
 import pluginCommonjs from "@rollup/plugin-commonjs";
@@ -11,7 +9,6 @@ import {babel} from "@rollup/plugin-babel";
 import * as path from "path";
 import {fileURLToPath} from 'url';
 import pkg from "./package.json" assert {type: "json"};
-
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -28,6 +25,7 @@ const banner = `
    */
 `;
 
+// noinspection JSUnusedGlobalSymbols
 export default [
   {
     input: inputFileName,
