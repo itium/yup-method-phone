@@ -10,6 +10,7 @@
   "main": "dist/yup-method-phone.cjs.js",
   "module": "dist/yup-method-phone.esm.js",
   "browser": "dist/yup-method-phone.umd.js",
+  "types": "dist/yup-method-phone.d.ts",
   "scripts": {
     "build": "rollup -c",
     "lint": "eslint --fix 'src/**/*.ts'",
