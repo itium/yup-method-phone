@@ -1,7 +1,7 @@
 {
   "name": "@itium/yup-method-phone",
-  "version": "1.0.2",
-  "description": "Yup method for vailidating phones",
+  "version": "1.0.3",
+  "description": "Yup method for validating phones using Google's libphonenumber",
   "repository": "https://github.com/itium/yup-method-phone.git",
   "author": "Rodrigo Palomares <rodrigo.palomares@itium.mx>",
   "contributors": ["Abhisek Pattnaik <abhisekp@engineer.com>"],

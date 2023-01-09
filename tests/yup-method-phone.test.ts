@@ -1,7 +1,7 @@
 import * as yup from 'yup';
 require('../dist/yup-method-phone.cjs');
 
-describe('yup-phone validation', () => {
+describe('yup-method-phone validation', () => {
   it('validate empty phone numbers', () => {
     const phoneSchema = yup.string()
       .phone();
