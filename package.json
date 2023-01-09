@@ -1,6 +1,6 @@
 {
   "name": "@itium/yup-method-phone",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Yup method for validating phones using Google's libphonenumber",
   "repository": "https://github.com/itium/yup-method-phone.git",
   "author": "Rodrigo Palomares <rodrigo.palomares@itium.mx>",
@@ -10,7 +10,7 @@
   "main": "dist/yup-method-phone.cjs.js",
   "module": "dist/yup-method-phone.esm.js",
   "browser": "dist/yup-method-phone.umd.js",
-  "types": "dist/yup-method-phone.d.ts",
+  "types": "dist/src/yup-method-phone.d.ts",
   "scripts": {
     "build": "rollup -c",
     "lint": "eslint --fix 'src/**/*.ts'",
